@@ -2,6 +2,7 @@
 
 ## 간단한 개념
 * 정렬되어 있는 자신의 앞에 하나씩 비교를 하여 올바른 위치에 '삽입'
+![img](https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif)
 
 ### 구현 1
 * '삽입' 공간을 만들기 위하여 한칸씩 뒤로 밀리고 있다.
