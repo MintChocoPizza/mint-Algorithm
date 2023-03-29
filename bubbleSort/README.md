@@ -2,7 +2,7 @@
 
 ## 간단한 개념
 * 가장 큰 값을 제일 뒤로 보낸다.
-![img](https://en.wikipedia.org/wiki/Bubble_sort#/media/File:A.gif)
+![img](https://en.wikipedia.org/wiki/Bubble_sort#/media/File:.gif)
 * 0 부터 n-1까지 2개씩 비교하며 swap하는 모습이 거품이 보글보글 거리는거 같음.
 ![img](https://upload.wikimedia.org/wikipedia/commons/c/c8/Bubble-sort-example-300px.gif)
 
