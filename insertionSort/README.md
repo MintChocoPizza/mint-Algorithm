@@ -1,7 +1,7 @@
 # Insertion Sort
 
 ## 간단한 개념
-* 정렬되어 있는 자신의 앞에 하나씩 비교를 하여 올바른 위치에 '삽입'
+* 정렬되어 있는 자신의 앞에 하나씩 비교를 하여 올바른 위치에 '삽입'<br/>
 ![img](https://upload.wikimedia.org/wikipedia/commons/0/0f/Insertion-sort-example-300px.gif)
 
 ### 구현 1
